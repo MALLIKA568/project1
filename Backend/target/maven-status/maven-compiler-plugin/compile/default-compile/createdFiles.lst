@@ -1,0 +1,8 @@
+com\niit\Backend\config\HibernateConfig.class
+com\niit\Backend\App.class
+com\niit\Backend\dao\ProductDAO.class
+com\niit\Backend\model\Category.class
+com\niit\Backend\daoimpl\CategoryDAOImpl.class
+com\niit\Backend\model\Product.class
+com\niit\Backend\dao\CategoryDAO.class
+com\niit\Backend\daoimpl\ProductDAOImpl.class
